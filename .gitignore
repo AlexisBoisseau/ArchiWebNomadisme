@@ -29,3 +29,4 @@ hs_err_pid*
 
 # Other
 graalvm-ce-java11-21.0.0/
+!fat-jars/*
